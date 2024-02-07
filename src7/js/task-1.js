@@ -20,4 +20,8 @@ console.log("Element: " + element.nextElementSibling.children.length)}
 
 );
 
+////1. we can getElementsByTagName
+////2.innerText vs innerHTML
+////3. nextElementSibling.children.
+
 
